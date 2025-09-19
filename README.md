@@ -25,7 +25,7 @@ Este estudo tem como objetivo explorar a relação entre **metragem de imóveis*
    
 3. **Construção do modelo**
    - Pipeline com `PolynomialFeatures` + `LinearRegression`.
-   - Teste de graus de polinômio de 1 a 5.
+   - Teste de graus de polinômio. 
    - Seleção do melhor grau usando `GridSearchCV`.
 
 4. **Avaliação do desempenho**
