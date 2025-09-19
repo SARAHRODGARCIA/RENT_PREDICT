@@ -36,7 +36,7 @@ Este estudo tem como objetivo explorar a relação entre **metragem de imóveis*
    - Gráfico de dispersão dos dados reais.
    - Curva do modelo ajustado.
    - Tabela com coeficientes para interpretar o impacto de cada termo.
-   - 
+   
 
 ## 📝 Conclusão e Aprendizado
 - Para este conjunto de dados, **modelos simples são suficientes**.  
